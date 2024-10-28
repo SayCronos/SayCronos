@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://static.wikia.nocookie.net/sao/images/8/88/Asuna_SAO.png/revision/latest/scale-to-width/360?cb=20150125143947&path-prefix=es)
+![Aditya Vikram Singh Banner](<div class="tenor-gif-embed" data-postid="3531984" data-share-method="host" data-aspect-ratio="1.76678" data-width="100%"><a href="https://tenor.com/view/anime-gif-3531984">Sword Art Online &lt;3 GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
