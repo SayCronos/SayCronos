@@ -1,4 +1,4 @@
-[![ProfileBanner](https://tenor.com/es-419/view/anime-gif-3531984)
+![Aditya Vikram Singh Banner](https://static.wikia.nocookie.net/sao/images/8/88/Asuna_SAO.png/revision/latest/scale-to-width/360?cb=20150125143947&path-prefix=es)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
