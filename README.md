@@ -1,11 +1,11 @@
-![Aditya Vikram Singh Banner](<div class="tenor-gif-embed" data-postid="3531984" data-share-method="host" data-aspect-ratio="1.76678" data-width="100%"><a href="https://tenor.com/view/anime-gif-3531984">Sword Art Online &lt;3 GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![Prueba_Gif](https://motionbgs.com/media/3206/yuuki-asuna-soa.jpg)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/170411130966093875/EB096E5FC4495C5B4E400CF91E9149C390243C30/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="360" height="203" />
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
